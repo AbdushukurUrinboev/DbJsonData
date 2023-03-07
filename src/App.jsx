@@ -16,6 +16,8 @@ function App() {
   return (
     <div className='container mt-5'>
       <h1>Hello</h1>
+      <p>Shakalad</p>
+      <p>lolo pepe</p>
     </div>
   )
 }
